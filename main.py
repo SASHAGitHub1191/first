@@ -1,2 +1,3 @@
 
-print('1')
+print('5')
+input(1)
