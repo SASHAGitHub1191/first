@@ -1,3 +1,3 @@
 
-print('5')
-input(1)
+a = print('10')
+input(a)
